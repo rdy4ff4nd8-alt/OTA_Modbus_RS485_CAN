@@ -1,0 +1,15 @@
+# Local ESP credentials
+/esp01s/GatewayOTA/config.h
+
+# Keil user settings and generated build output
+*.uvguix.*
+/app/MDK-ARM/GatewayOTA/
+/bootloader/MDK-ARM/Bootloader/
+/CanNodeVET6/MDK-ARM/CanNodeVET6/
+*.lst
+*.log
+
+# Runtime data and Python cache
+*.sqlite3
+__pycache__/
+*.pyc
